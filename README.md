@@ -1,5 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Faateh</h1>
-<h3 align="center"><> Experienced MERN stack developer || IT grad from <a href="https://www.umt.edu.pk/" target=_blank> UMT </a> || Knowledge seeker <\></h3>
+<p align="center">
+<!--  https://git.io/typing-svg  -->
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=880085&center=true&width=435&lines=I'm+a+experienced+MERN +stack+developer.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="Typing SVG" />
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
 - 👨🏻‍💻 I’m currently learning **Next JS**
