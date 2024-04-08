@@ -8,6 +8,7 @@
 <img 
 width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUiyXMQPPhpftE7uif4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif" alt="Programmer">
 
+
 - 👨🏻‍💻 I’m currently learning **Next JS**
 
 - 💬 Ask me about: **Web Development, Android Development**
@@ -16,9 +17,9 @@ width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUi
 
 - 🔥 Fun fact: **Coding is 80% searching for solutions on the internet and 20% understanding and adapting them to your own problem.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faatehnaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faatehnaeem" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/faatehnaeem" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95082903/208309035-3485e246-64c2-434c-baac-551989d137fd.png" alt="faatehnaeem" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -31,7 +32,7 @@ GitHub Stats
 <p align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faatehnaeem&card_width=600&background=EB545400&currStreakLabel=B95AFF&currStreakNum=FA34FF&sideNums=C130EB&dates=red&sideLabels=D458EB&fire=FFDF01&ring=FFD524" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faatehnaeem&card_width=600&background=EB545400&theme=merko&fire=FF5F1F&ring=ffeb14" alt="GitHub Streak" />
 </p>
 
 <p align="center">
