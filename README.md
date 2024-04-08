@@ -9,17 +9,34 @@
 width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUiyXMQPPhpftE7uif4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif" alt="Programmer">
 
 
-- 👨🏻‍💻 I’m currently learning **Next JS**
+<div align="center">
+  
+  👨🏻‍💻 I’m currently learning <strong>Next JS</strong><br>
+  
+  💬 Ask me about: <strong>Web Development, Android Development</strong><br>
+  
+  📫 How to reach me: <strong><a href="mailto:faatehnaeem53@gmail.com">faatehnaeem53@gmail.com</a></strong><br>
+  
+  🔥 Fun fact: <strong>Coding is 80% searching for solutions on the internet and 20% understanding and adapting them to your own problem.</strong>
+  
+</div>
 
-- 💬 Ask me about: **Web Development, Android Development**
-
-- 📫 How to reach me: **faatehnaeem53@gmail.com**
-
-- 🔥 Fun fact: **Coding is 80% searching for solutions on the internet and 20% understanding and adapting them to your own problem.**
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
-<a href="https://linkedin.com/in/faatehnaeem" target="blank"><img align="center" src="https://user-images.githubusercontent.com/95082903/208309035-3485e246-64c2-434c-baac-551989d137fd.png" alt="faatehnaeem" height="40" width="40" /></a>
+   
+<a href="https://linkedin.com/in/faatehnaeem" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/95082903/208309035-3485e246-64c2-434c-baac-551989d137fd.png" alt="faatehnaeem" height="40" width="40" /></a>
+
+<a href="https://www.facebook.com/profile.php?id=100010441269666" target="_blank">
+<img src="https://user-images.githubusercontent.com/95082903/208309323-f4a37ced-80e0-497f-9712-bce1d03e0ba5.png" align="center" alt="Facebook" height="40" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/faatehyyy" target="_blank">
+<img src="https://user-images.githubusercontent.com/95082903/208309007-20341fc3-2b27-4ce2-951c-2044d6473419.png" align="center" alt="Instagram" height="40" width="40"/>
+  </a>
+   
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
