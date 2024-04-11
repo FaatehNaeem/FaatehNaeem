@@ -49,15 +49,15 @@ GitHub Stats
 <p align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faatehnaeem&card_width=600&background=EB545400&theme=merko&fire=FF5F1F&ring=ffeb14" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faatehnaeem&card_width=600&background=000000&theme=merko&fire=FF5F1F&ring=ffeb14" alt="GitHub Streak" />
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&theme=merko&card_width=600&include_all_commits=false" alt="GitHub Streak" alt="faatehnaeem" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&theme=merko&card_width=600&include_all_commits=false&bg_color=000000" alt="GitHub Streak" alt="faatehnaeem" />
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&layout=donut&theme=merko&card_width=600" alt="GitHub Streak" alt="faatehnaeem" />
+<img src="https://github-readme-stats.vercel.app/api?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&layout=donut&theme=merko&card_width=600&bg_color=000000" alt="GitHub Streak" alt="faatehnaeem" />
 </p>
