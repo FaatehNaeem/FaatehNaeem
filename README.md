@@ -13,7 +13,7 @@ width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUi
   
   👨🏻‍💻 I’m currently learning <strong>Next JS</strong><br>
   
-  💬 Ask me about: <strong>Web Development, Android Development</strong><br>
+  💬 Ask me about: <strong>Web Development | Android Development</strong><br>
   
   📫 How to reach me: <strong><a href="mailto:faatehnaeem53@gmail.com">faatehnaeem53@gmail.com</a></strong><br>
   
