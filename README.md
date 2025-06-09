@@ -1,9 +1,8 @@
 <h1 align="center">Hello there 👋 I'm Faateh.</h1>
 
-<p align="center">
-<!--  https://git.io/typing-svg  -->
+<!--=<p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=04ff00&background=000000&margin=auto&center=true&width=435&lines=I'm+a+experienced+MERN +stack+developer.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="Typing SVG" />
-</p>
+</p> -->
 
 <img 
 width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUiyXMQPPhpftE7uif4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/bGlhbnBlcnNvbi81/ZjBmNTI2MDRiMDNh/ZDgwYzgyZGI3OTBj/NDc0OTkzYy9yYXcv/ODhmMjBjOWQ3NDlk/NzU2YmU2M2YyMmIw/OWYzYzRhYzU3MGJj/NTEwMS9wcm9ncmFt/bWluZy5naWY.gif" alt="Programmer">
