@@ -10,7 +10,7 @@ width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUi
 
 <div align="center">
   
-  👨🏻‍💻 I’m currently learning <strong>Next JS</strong><br>
+  👨🏻‍💻 I’m currently learning <strong>AI</strong><br>
   
   💬 Ask me about: <strong>Web Development | Android Development</strong><br>
   
