@@ -45,11 +45,6 @@ width=max-content src="https://imgs.search.brave.com/XhldNdW2t65Bo5eZrpM_1BT4wUi
 GitHub Stats
 </h1>
 
-<p align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faatehnaeem&card_width=600&background=000000&theme=merko&fire=FF5F1F&ring=ffeb14" alt="GitHub Streak" />
-</p>
 
 <p align="center">
 
