@@ -52,7 +52,7 @@ GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&theme=merko&card_width=600&include_all_commits=false&bg_color=000000" alt="GitHub Streak" alt="faatehnaeem" />
 </p>
 
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=faatehnaeem&show_icons=true&count_private=true&hide_rank=true&layout=donut&theme=merko&card_width=600&bg_color=000000" alt="GitHub Streak" alt="faatehnaeem" />
 </p>
