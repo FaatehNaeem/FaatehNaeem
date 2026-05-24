@@ -22,7 +22,7 @@
 <!-- ABOUT ME -->
 <img align="right" width="340" src="https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg" style="border-radius:14px; margin-left:16px;" />
 
-### 👾 &nbsp;`whoami`
+### 👾 &nbsp;`who am i`
 
 ```javascript
 const faateh = {
@@ -123,7 +123,7 @@ const faateh = {
 
 ---
 
-## 🐍 &nbsp;Contributions Getting Eaten
+## 🐍 &nbsp;Contributions
 
 <div align="center">
   <picture>
@@ -132,8 +132,6 @@ const faateh = {
     <img alt="Snake animation" src="https://raw.githubusercontent.com/FaatehNaeem/FaatehNaeem/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-> ⚠️ **Snake not showing?** Go to your repo → **Actions** tab → **Generate Snake** → click **"Run workflow"** to generate it for the first time!
 
 ---
 
