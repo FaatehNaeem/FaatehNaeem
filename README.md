@@ -135,13 +135,6 @@ const faateh = {
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
 ## 🌐 &nbsp;Connect With Me
 
 <div align="center">
