@@ -98,9 +98,8 @@ const faateh = {
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=FaatehNaeem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
   &nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FaatehNaeem&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=FaatehNaeem&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaatehNaeem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
