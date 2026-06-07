@@ -39,7 +39,7 @@ const faateh = {
 
 <br/>
 
-- 🔭 &nbsp;Levelling up in **Artificial Intelligence & ML**
+- 🔭 &nbsp;Leveling up in **Artificial Intelligence & ML**
 - 🛠️ &nbsp;Building full-stack apps with **React, Next.js & Node.js**
 - 📱 &nbsp;Crafting mobile experiences with **React Native**
 - 💬 &nbsp;Ask me about **Web Dev, Android & clean architecture**
